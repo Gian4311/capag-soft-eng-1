@@ -68,7 +68,7 @@ function App() {
                 </select>
             </form></section>
             <section>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat.</p>
+                <p></p>
                 <button id="pass">Done</button>
             </section>
         </main>

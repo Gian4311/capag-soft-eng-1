@@ -44,6 +44,14 @@ $( async() => {
 
     } );
 
+    $( "#service" ).on( "change", function() {
+
+        const value = $( this ).val() as string;
+        $( "main p" ).text( value );
+        $( "#duration, #price" ).val( value );
+
+    } ).trigger( "change" );
+
 } );
 
 // If you want to start measuring performance in your app, pass a function
