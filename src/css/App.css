@@ -1,0 +1,29 @@
+body {
+
+  background: #ffe9ae;
+
+}
+
+#root {
+
+
+
+}
+
+nav {
+
+  grid-template-columns: 9fr 1fr 1fr 1fr;
+
+}
+
+main {
+
+  grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+main>section {
+
+  padding: 1em;
+
+}
