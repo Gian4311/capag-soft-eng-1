@@ -68,13 +68,28 @@ main>section {
 form {
 
   grid-template-columns: 1fr 1fr;
-  gap: 1.5em;
+  gap: 1em 1.5em;
 
 }
 
 label {
 
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: right;
   text-align: right;
+
+}
+
+form input, form select {
+
+  color: #b7ffb5;
+  border: 5px solid #edb419;
+  padding: 0.25em;
+  background: #775b34;
+  font-family: Gill Sans MT;
+  font-size: 18pt;
 
 }
 

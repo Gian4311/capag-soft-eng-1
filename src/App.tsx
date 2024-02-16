@@ -65,7 +65,7 @@ function App() {
                     <option value="1">Pennywise</option>
                     <option value="2">Chucky</option>
                     <option value="3">Freddy Krueger</option>
-                </select>s
+                </select>
             </form></section>
             <section>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat.</p>

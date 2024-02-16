@@ -16,3 +16,9 @@
     min-height: 0;
 
 }
+
+input, select {
+
+    outline: none;
+
+}
